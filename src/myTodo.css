@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app-inner {
+    text-align: center;
+    margin-top: 23px;
+}
+.inputTask {
+    margin: 10px;
+    padding: 7px;
+}
+.todoTask {
+
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.todoTask button {
+    margin-left: 10px;
+}
+.todoTask p {
+    padding-top: 4px;
+}
+.saveBtn {
+    margin-top: 10px
+}
+button {
+    padding: 7px
+}
